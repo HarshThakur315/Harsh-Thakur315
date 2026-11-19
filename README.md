@@ -1,5 +1,5 @@
 
-# Hi, I'm Harsh Thakur 👋
+# Hi, I'm Harsh 👋
 
 ### Aspiring Software Developer | BCA Student
 
